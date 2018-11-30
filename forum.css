@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/72/165667fef775f37.jpg");
+}
+main
+{
+    display: flex;
+    justify-content: center;
+}
+form
+{
+    display: flex;
+    flex-direction: column;
+    min-width: 400px;
+    max-width: 400px;
+}
+.form-group
+{
+    padding: 10px;
+}
+.btn
+{
+    margin: 10px;
+}
+input 
+{
+    background-image: url("http://www.usclimateplan.org/wp-content/uploads/2018/11/purple-desktop-wallpaper-1773-flickr-fancy-quality-0.jpg") !important;
+    color: lightblue !important;
+}
+textarea
+{
+    background-image: url("http://www.usclimateplan.org/wp-content/uploads/2018/11/purple-desktop-wallpaper-1773-flickr-fancy-quality-0.jpg") !important;
+    color: lightblue!important;
+}
+::placeholder
+{
+    color: white !important;
+}
+button
+{
+    background-image: url("http://www.usclimateplan.org/wp-content/uploads/2018/11/purple-desktop-wallpaper-1773-flickr-fancy-quality-0.jpg") !important;
+    color: white !important;
+}
+label
+{
+    color: black !important;
+}
+.toggle-class
+{
+    display: none !important;
+}
